@@ -1,0 +1,150 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* main {
+    width:90%;
+    padding-right: 1%;
+    padding-left: 15px;
+
+}  */
+
+.the-body{
+    padding:25px;
+    width:70%;
+    
+}
+
+.row{
+    margin-left:0px;
+    margin-right:0px;
+}
+
+#index-feature{
+    margin: 15px 0px;
+    
+}
+
+header {
+    
+    height: 100px;
+    width: 100%;
+    margin:15px 0px;
+
+}
+
+img{
+    border-style:double;
+}
+
+nav {
+    
+    height: 40px;
+    border-top:1px solid black;
+    border-bottom: 1px solid black;
+    margin:15px 0px;
+    text-align: center;
+}
+
+nav ol li {
+    display: inline-block;
+    padding: 10px;
+    color:black;
+}
+
+#bottom-nav {
+    border-top: 1px solid black;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#bottom-nav ul li {
+    display: inline-block;
+    color: black;
+}
+
+/*
+.container {
+    width: 70%;
+}*/
+
+#main-section {
+    margin:0px;
+    padding:0px;
+}
+
+.sidebar-left {
+    margin: 0px;
+    padding: 25px;
+    background-color: darkred;
+    color: white;
+}
+
+.sidebar-right {
+    margin: 0px;
+    padding: 25px;
+    background-color: darkred;
+    color: white;
+}
+
+/* #side-section {
+    padding:0px;
+    margin-left:15px !important;
+    margin-right:15px !important;
+}    */
+
+/* #news-headline {
+    padding-bottom: 10px;
+    border-bottom: 1px solid white;
+} */
+
+.copyright {
+    margin: 0px;
+    padding: 0px;
+    color: gray;
+    text-align: center;
+}
+
+footer{
+    width:100%;
+}
+
+footer li {
+    padding: 15px;
+}
+
+footer p {
+    color: gray;
+    font-size: small;
+}
+
+.image-area {
+    padding-left: 0px !important;
+    padding-right:0px !important;
+}
+
+#newsfeed {
+    background-color: darkred;
+    padding: 15px 20px 15px 10px;
+    box-align: 
+}
+
+/* #news-what {
+    background-color: darkred;
+    padding: 15px 20px 15px 10px;
+    box-align: 
+}
+
+#newsfeed-who {
+    background-color: darkred;
+    padding: 15px 20px 15px 10px;
+    box-align: 
+} */
+
+.images-container{
+        width:100%;
+        margin-left:10px;
+        margin-right:10px;
+
+}
